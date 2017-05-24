@@ -92,6 +92,8 @@ In the `css` script, you need to change
 
 All that's left now is for you to run the NPM script in the root folder of your WP project — where you downloaded the [`package.json`](https://git.io/vHLHg) file.
 
+> NOTE: Before you run, make sure there is a source SCSS file. Otherwise running the script will display this error `An output directory must be specified when compiling a directory`.
+
 ```bash
 # Compile CSS.
 npm run css
