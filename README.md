@@ -40,7 +40,7 @@ Download [`package.json`](https://git.io/vHLHg) file inside the root folder of y
 If you have cURL installed then you can run the following command to download it in one go (just make sure you open the root folder of your WordPress plugin or WordPress theme and download [`package.json`](https://git.io/vHLHg) file in it).
 
 ```bash
-curl -L 'https://git.io/vHLHg' -o package.json
+curl -L 'https://git.io/wpsass' -o package.json
 ```
 
 ## → STEP #3: Installing Node Dependencies
