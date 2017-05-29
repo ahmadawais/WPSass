@@ -106,6 +106,7 @@ npm run css
 npm run watch
 ```
 
+![Run](https://i.imgur.com/tIelJwy.gif)
 
 ## → STEP #6: Share!
 
