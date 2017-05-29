@@ -19,6 +19,8 @@
 
 Use Sass with WordPress, Node Script in SCSS flavor.
 
+![WPSass](https://i.imgur.com/u6BnFfC.png)
+
 # 🎗 WP Sass — Getting Set up
 
 Make sure you have node installed. If not [download and install node](https://nodejs.org/en/download/).
